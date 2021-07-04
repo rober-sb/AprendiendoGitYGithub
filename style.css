@@ -27,9 +27,10 @@ p{
     padding: 20px;
     background: lemonchiffon;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
 .cabecera{
-    width: 100%;
-    height: 80px;
+    width:100%;
+    height:80px;
     background: #000;
     color: #fff;
     font-size: 24px;
