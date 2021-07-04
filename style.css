@@ -13,3 +13,18 @@ h1{
 p{
     font-size: 20px;
 }
+.titulo{
+    margin: auto;
+    width: 90%;
+    height: auto;
+    padding: 20px;
+    background-color: sandybrown;
+}
+.caja-blog{
+    margin: auto;
+    width: 80%;
+    height: auto;
+    padding: 20px;
+    background: lemonchiffon;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
